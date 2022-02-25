@@ -6,12 +6,13 @@ The fonts come from [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fon
 
 To install the package, clone the repo and run makepkg as shown below:
 
-        git clone https://github.com/jtbx/jetbrainsmono-nerdfont
+	git clone https://github.com/jtbx/jetbrainsmono-nerdfont
+	cd jetbrainsmono-nerdfont
 	makepkg -i
 
 Or you could use the 'binary':
 
-        sudo pacman -U https://raw.githubusercontent.com/URL_COMING_SOON.pkg.tar.zst
+	sudo pacman -U https://raw.githubusercontent.com/URL_COMING_SOON.pkg.tar.zst
 
 This repository mainly exists for my private pacman repository, although you can use the PKGBUILD or the built `.pkg.tar.zst` wherever you want, of course.
 
