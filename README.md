@@ -1,3 +1,5 @@
+*note: this repository is inactive for now, because I realized there is already an AUR package for this font.*
+
 # JetBrains Mono Nerd Font
 
 This repository is for downloading the JetBrains Mono Nerd Fonts as an Arch Linux package (or alone).
