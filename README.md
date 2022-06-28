@@ -1,4 +1,4 @@
-*note: this repository is inactive for now, because I realized there is already an AUR package for this font.*
+*note: this repository is currently inactive, as there are already packages for this font.*
 
 # JetBrains Mono Nerd Font
 
